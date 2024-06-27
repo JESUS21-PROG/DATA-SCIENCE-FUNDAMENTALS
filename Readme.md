@@ -1,2 +1,6 @@
-# ESTE ES EL TITULO
-HolA! este es mi primer trabajo en GIT
+# PROYECTO DE DATA SCIENCE FUNDAMENTALS
+
+Incluye los siguientes tópicos:
+* Fundamentos
+* Código GIT
+* Código R y Python
